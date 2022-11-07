@@ -1,0 +1,10 @@
+To run you require an .env file the following is what is required
+
+
+
+PORT= add portaddress like 8000
+USERNAME=project1_user
+PASSWORD=. addpassword
+DATABASE=. name of database
+DB_PORT=   db port like 3300
+HOST=   host name
